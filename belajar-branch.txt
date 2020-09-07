@@ -6,5 +6,6 @@ BELAJAR BRANCH
 -jika branch ingin digabung bisa dengan menggunakan merge
 -jika branch tidak digabung bisa di delete
 
+-succes melakukan branch
+-mengatasi konflik branch pada saat merge file
 -berhasil melakukan 2 branch dan merge
--hapus bagaian ini
