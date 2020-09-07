@@ -5,3 +5,6 @@ BELAJAR BRANCH
 -dengan adanya branch seseorang bisa merencanakan sesuatu
 -jika branch ingin digabung bisa dengan menggunakan merge
 -jika branch tidak digabung bisa di delete
+
+-succes melakukan branch
+-mengatasi konflik branch pada saat merge file
