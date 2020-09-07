@@ -14,3 +14,6 @@ ISTILAH ISTILAH YANG DIPAKAI DI GITHUB
 8. Clone adalah mengambil duplikasi repository dari remote
 9. Push adalah mengirimkan repository
 10. Pull adalah mengambil repository
+
+#2
+BELAJAR TENTANG BRANCH
