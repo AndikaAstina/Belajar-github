@@ -8,3 +8,4 @@ BELAJAR BRANCH
 
 -succes melakukan branch
 -mengatasi konflik branch pada saat merge file
+-berhasil melakukan 2 branch dan merge
