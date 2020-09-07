@@ -1,0 +1,16 @@
+# BelajarGitHub
+belajar menggunakan github
+
+#1
+ISTILAH ISTILAH YANG DIPAKAI DI GITHUB
+
+1. Repository adalah folder project yang dibuat
+2. Commit adalah rekaman atau snapshot dari repository
+3. Hash adalah penanda unik pada sebuah repository
+4. Checkout adalah berpindah ke sebuah commit
+5. Branch adalah cabang bebas dari sebuah commit
+6. Merge adalah menggabungkan branch
+7. Remote adalah sumber dari sebuah repository
+8. Clone adalah mengambil duplikasi repository dari remote
+9. Push adalah mengirimkan repository
+10. Pull adalah mengambil repository
