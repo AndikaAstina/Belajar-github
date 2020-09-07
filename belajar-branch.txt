@@ -7,3 +7,4 @@ BELAJAR BRANCH
 -jika branch tidak digabung bisa di delete
 
 -berhasil melakukan 2 branch dan merge
+-hapus bagaian ini
