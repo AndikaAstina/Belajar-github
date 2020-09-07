@@ -1,0 +1,5 @@
+#2
+BELAJAR BRANCH
+-Branch yaitu merupakan cabang bebas dari commit
+-dengan adanya branch akan mempermudah seseorang dalam membuat project dengan team lainnya
+-dengan adanya branch seseorang bisa merencanakan sesuatu
